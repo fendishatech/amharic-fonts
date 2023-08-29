@@ -1,0 +1,6 @@
+@import url(./font-faces.css);
+
+:root {
+    --font-abinet : 'Abinet', sans-serif;
+    --font-hiwua : 'Hiwua', sans-serif;
+}

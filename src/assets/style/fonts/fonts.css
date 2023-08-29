@@ -1,0 +1,13 @@
+@import url(./font-variables.css);
+
+.abinet {
+    font-family: var(--font-abinet);
+}
+
+.hiwua {
+    font-family: var(--font-hiwua);
+}
+
+body {
+    background-color: black;
+}
