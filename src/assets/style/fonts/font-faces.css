@@ -1,9 +1,710 @@
+
 @font-face {
-  font-family: 'Abinet';
-  src: url('../../fonts/Abinet.ttf') format('truetype');
+font-family: 'Abinet';
+src: url('../../fonts/Abinet.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Hiwua';
-  src: url('../../fonts/hiwua.ttf') format('truetype');
+font-family: 'ADDIS';
+src: url('../../fonts/ADDIS.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'AddisAbaba';
+src: url('../../fonts/AddisAbaba.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Addisu';
+src: url('../../fonts/Addisu.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Adwa Wendie';
+src: url('../../fonts/Adwa Wendie.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Adwa-Bold';
+src: url('../../fonts/Adwa-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Adwa-Regular';
+src: url('../../fonts/Adwa-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'AdwaSansSerif-Bold';
+src: url('../../fonts/AdwaSansSerif-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'AdwaSansSerif-Regular';
+src: url('../../fonts/AdwaSansSerif-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Anbassa';
+src: url('../../fonts/Anbassa.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Arada';
+src: url('../../fonts/Arada.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Chiret-Regular';
+src: url('../../fonts/Chiret-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'DESTA';
+src: url('../../fonts/DESTA.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'EBRIMA 2';
+src: url('../../fonts/EBRIMA 2.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Entoto';
+src: url('../../fonts/Entoto.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Abay Light';
+src: url('../../fonts/Ethiopic Abay Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Abay Regular';
+src: url('../../fonts/Ethiopic Abay Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'ETHIOPIC FANTWUA';
+src: url('../../fonts/ETHIOPIC FANTWUA.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Lessan Light';
+src: url('../../fonts/Ethiopic Lessan Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Lessan Regular';
+src: url('../../fonts/Ethiopic Lessan Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Sadiss Light';
+src: url('../../fonts/Ethiopic Sadiss Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Ethiopic Sadiss Regular';
+src: url('../../fonts/Ethiopic Sadiss Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Fantuwa';
+src: url('../../fonts/Fantuwa.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'GeezMahtem';
+src: url('../../fonts/GeezMahtem.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'GeezTypeNet';
+src: url('../../fonts/GeezTypeNet.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Godana-Regular';
+src: url('../../fonts/Godana-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Goffer';
+src: url('../../fonts/Goffer.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Habesha STENCIL';
+src: url('../../fonts/Habesha STENCIL.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'HABESHAPIXELS-Bold';
+src: url('../../fonts/HABESHAPIXELS-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'HABESHAPIXELS';
+src: url('../../fonts/HABESHAPIXELS.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Hiwua';
+src: url('../../fonts/Hiwua.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Jiret';
+src: url('../../fonts/Jiret.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Kefa';
+src: url('../../fonts/Kefa.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'KIROS';
+src: url('../../fonts/KIROS.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Meaza';
+src: url('../../fonts/Meaza.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Menilik';
+src: url('../../fonts/Menilik.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'mulat abay (2)';
+src: url('../../fonts/mulat abay (2).ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'mulat abay 2 (1)';
+src: url('../../fonts/mulat abay 2 (1).ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'mulat abay 2 (2)';
+src: url('../../fonts/mulat abay 2 (2).ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-Bold';
+src: url('../../fonts/MulatAbay-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-BoldItalic';
+src: url('../../fonts/MulatAbay-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-Regular';
+src: url('../../fonts/MulatAbay-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-RegularItalic';
+src: url('../../fonts/MulatAbay-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-Thin';
+src: url('../../fonts/MulatAbay-Thin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAbay-ThinItalic';
+src: url('../../fonts/MulatAbay-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAddis-Regular';
+src: url('../../fonts/MulatAddis-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAhmed-Regular';
+src: url('../../fonts/MulatAhmed-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MulatAwash-Regular';
+src: url('../../fonts/MulatAwash-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Neteru';
+src: url('../../fonts/Neteru.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Niyala';
+src: url('../../fonts/Niyala.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Nokia Pureheadline Bold';
+src: url('../../fonts/Nokia Pureheadline Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Nokia Pureheadline Light';
+src: url('../../fonts/Nokia Pureheadline Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Black';
+src: url('../../fonts/NotoSansEthiopic-Black.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Bold';
+src: url('../../fonts/NotoSansEthiopic-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Condensed';
+src: url('../../fonts/NotoSansEthiopic-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedBlack';
+src: url('../../fonts/NotoSansEthiopic-CondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedBold';
+src: url('../../fonts/NotoSansEthiopic-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedExtraBold';
+src: url('../../fonts/NotoSansEthiopic-CondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedExtraLight';
+src: url('../../fonts/NotoSansEthiopic-CondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedLight';
+src: url('../../fonts/NotoSansEthiopic-CondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedMedium';
+src: url('../../fonts/NotoSansEthiopic-CondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedSemiBold';
+src: url('../../fonts/NotoSansEthiopic-CondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-CondensedThin';
+src: url('../../fonts/NotoSansEthiopic-CondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraBold';
+src: url('../../fonts/NotoSansEthiopic-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensed';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedBlack';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedBold';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedExtraBold';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedExtraLight';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedLight';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedMedium';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedSemiBold';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraCondensedThin';
+src: url('../../fonts/NotoSansEthiopic-ExtraCondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-ExtraLight';
+src: url('../../fonts/NotoSansEthiopic-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Light';
+src: url('../../fonts/NotoSansEthiopic-Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Medium';
+src: url('../../fonts/NotoSansEthiopic-Medium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Regular';
+src: url('../../fonts/NotoSansEthiopic-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiBold';
+src: url('../../fonts/NotoSansEthiopic-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensed';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedBlack';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedBold';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedExtraBold';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedExtraLight';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedLight';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedMedium';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedSemiBold';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-SemiCondensedThin';
+src: url('../../fonts/NotoSansEthiopic-SemiCondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSansEthiopic-Thin';
+src: url('../../fonts/NotoSansEthiopic-Thin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Black';
+src: url('../../fonts/NotoSerifEthiopic-Black.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Bold';
+src: url('../../fonts/NotoSerifEthiopic-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Condensed';
+src: url('../../fonts/NotoSerifEthiopic-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedBlack';
+src: url('../../fonts/NotoSerifEthiopic-CondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedBold';
+src: url('../../fonts/NotoSerifEthiopic-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedExtraBold';
+src: url('../../fonts/NotoSerifEthiopic-CondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedExtraLight';
+src: url('../../fonts/NotoSerifEthiopic-CondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedLight';
+src: url('../../fonts/NotoSerifEthiopic-CondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedMedium';
+src: url('../../fonts/NotoSerifEthiopic-CondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedSemiBold';
+src: url('../../fonts/NotoSerifEthiopic-CondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-CondensedThin';
+src: url('../../fonts/NotoSerifEthiopic-CondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraBold';
+src: url('../../fonts/NotoSerifEthiopic-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensed';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedBlack';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedBold';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedExtraBold';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedExtraLight';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedLight';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedMedium';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedSemiBold';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraCondensedThin';
+src: url('../../fonts/NotoSerifEthiopic-ExtraCondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-ExtraLight';
+src: url('../../fonts/NotoSerifEthiopic-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Light';
+src: url('../../fonts/NotoSerifEthiopic-Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Medium';
+src: url('../../fonts/NotoSerifEthiopic-Medium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Regular';
+src: url('../../fonts/NotoSerifEthiopic-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiBold';
+src: url('../../fonts/NotoSerifEthiopic-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensed';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensed.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedBlack';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedBlack.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedBold';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedExtraBold';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedExtraLight';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedLight';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedMedium';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedSemiBold';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-SemiCondensedThin';
+src: url('../../fonts/NotoSerifEthiopic-SemiCondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'NotoSerifEthiopic-Thin';
+src: url('../../fonts/NotoSerifEthiopic-Thin.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'sabaean';
+src: url('../../fonts/sabaean.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Seat';
+src: url('../../fonts/Seat.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Shiromeda-Bold';
+src: url('../../fonts/Shiromeda-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Shiromeda-Regular';
+src: url('../../fonts/Shiromeda-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Shiromeda-SemiBold';
+src: url('../../fonts/Shiromeda-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'ShiromedaSerif-Bold';
+src: url('../../fonts/ShiromedaSerif-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'ShiromedaSerif-Regular';
+src: url('../../fonts/ShiromedaSerif-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'ShiromedaSerif-SemiBold';
+src: url('../../fonts/ShiromedaSerif-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Tayitu';
+src: url('../../fonts/Tayitu.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Tera-Regular';
+src: url('../../fonts/Tera-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Tera';
+src: url('../../fonts/Tera.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'tint';
+src: url('../../fonts/tint.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Washera Bold';
+src: url('../../fonts/Washera Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Washera Regular';
+src: url('../../fonts/Washera Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Wukiyanos';
+src: url('../../fonts/Wukiyanos.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Yebs';
+src: url('../../fonts/Yebs.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Yigezu Bisrat';
+src: url('../../fonts/Yigezu Bisrat.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Zelan';
+src: url('../../fonts/Zelan.ttf') format('truetype');
 }

@@ -1,13 +1,712 @@
-@import url(./font-variables.css);
+@import url('./font-variables.css');
 
-.abinet {
+.abinet 
+{
     font-family: var(--font-abinet);
-}
+} 
 
-.hiwua {
+.addis 
+{
+    font-family: var(--font-addis);
+} 
+
+.addisababa 
+{
+    font-family: var(--font-addisababa);
+} 
+
+.addisu 
+{
+    font-family: var(--font-addisu);
+} 
+
+.adwa-wendie 
+{
+    font-family: var(--font-adwa-wendie);
+} 
+
+.adwa-bold 
+{
+    font-family: var(--font-adwa-bold);
+} 
+
+.adwa-regular 
+{
+    font-family: var(--font-adwa-regular);
+} 
+
+.adwasansserif-bold 
+{
+    font-family: var(--font-adwasansserif-bold);
+} 
+
+.adwasansserif-regular 
+{
+    font-family: var(--font-adwasansserif-regular);
+} 
+
+.anbassa 
+{
+    font-family: var(--font-anbassa);
+} 
+
+.arada 
+{
+    font-family: var(--font-arada);
+} 
+
+.chiret-regular 
+{
+    font-family: var(--font-chiret-regular);
+} 
+
+.desta 
+{
+    font-family: var(--font-desta);
+} 
+
+.ebrima-2 
+{
+    font-family: var(--font-ebrima-2);
+} 
+
+.entoto 
+{
+    font-family: var(--font-entoto);
+} 
+
+.ethiopic-abay-light 
+{
+    font-family: var(--font-ethiopic-abay-light);
+} 
+
+.ethiopic-abay-regular 
+{
+    font-family: var(--font-ethiopic-abay-regular);
+} 
+
+.ethiopic-fantwua 
+{
+    font-family: var(--font-ethiopic-fantwua);
+} 
+
+.ethiopic-lessan-light 
+{
+    font-family: var(--font-ethiopic-lessan-light);
+} 
+
+.ethiopic-lessan-regular 
+{
+    font-family: var(--font-ethiopic-lessan-regular);
+} 
+
+.ethiopic-sadiss-light 
+{
+    font-family: var(--font-ethiopic-sadiss-light);
+} 
+
+.ethiopic-sadiss-regular 
+{
+    font-family: var(--font-ethiopic-sadiss-regular);
+} 
+
+.fantuwa 
+{
+    font-family: var(--font-fantuwa);
+} 
+
+.geezmahtem 
+{
+    font-family: var(--font-geezmahtem);
+} 
+
+.geeztypenet 
+{
+    font-family: var(--font-geeztypenet);
+} 
+
+.godana-regular 
+{
+    font-family: var(--font-godana-regular);
+} 
+
+.goffer 
+{
+    font-family: var(--font-goffer);
+} 
+
+.habesha-stencil 
+{
+    font-family: var(--font-habesha-stencil);
+} 
+
+.habeshapixels-bold 
+{
+    font-family: var(--font-habeshapixels-bold);
+} 
+
+.habeshapixels 
+{
+    font-family: var(--font-habeshapixels);
+} 
+
+.hiwua 
+{
     font-family: var(--font-hiwua);
-}
+} 
 
-body {
-    background-color: black;
-}
+.jiret 
+{
+    font-family: var(--font-jiret);
+} 
+
+.kefa 
+{
+    font-family: var(--font-kefa);
+} 
+
+.kiros 
+{
+    font-family: var(--font-kiros);
+} 
+
+.meaza 
+{
+    font-family: var(--font-meaza);
+} 
+
+.menilik 
+{
+    font-family: var(--font-menilik);
+} 
+
+.mulat-abay--2- 
+{
+    font-family: var(--font-mulat-abay--2-);
+} 
+
+.mulat-abay-2--1- 
+{
+    font-family: var(--font-mulat-abay-2--1-);
+} 
+
+.mulat-abay-2--2- 
+{
+    font-family: var(--font-mulat-abay-2--2-);
+} 
+
+.mulatabay-bold 
+{
+    font-family: var(--font-mulatabay-bold);
+} 
+
+.mulatabay-bolditalic 
+{
+    font-family: var(--font-mulatabay-bolditalic);
+} 
+
+.mulatabay-regular 
+{
+    font-family: var(--font-mulatabay-regular);
+} 
+
+.mulatabay-regularitalic 
+{
+    font-family: var(--font-mulatabay-regularitalic);
+} 
+
+.mulatabay-thin 
+{
+    font-family: var(--font-mulatabay-thin);
+} 
+
+.mulatabay-thinitalic 
+{
+    font-family: var(--font-mulatabay-thinitalic);
+} 
+
+.mulataddis-regular 
+{
+    font-family: var(--font-mulataddis-regular);
+} 
+
+.mulatahmed-regular 
+{
+    font-family: var(--font-mulatahmed-regular);
+} 
+
+.mulatawash-regular 
+{
+    font-family: var(--font-mulatawash-regular);
+} 
+
+.neteru 
+{
+    font-family: var(--font-neteru);
+} 
+
+.niyala 
+{
+    font-family: var(--font-niyala);
+} 
+
+.nokia-pureheadline-bold 
+{
+    font-family: var(--font-nokia-pureheadline-bold);
+} 
+
+.nokia-pureheadline-light 
+{
+    font-family: var(--font-nokia-pureheadline-light);
+} 
+
+.notosansethiopic-black 
+{
+    font-family: var(--font-notosansethiopic-black);
+} 
+
+.notosansethiopic-bold 
+{
+    font-family: var(--font-notosansethiopic-bold);
+} 
+
+.notosansethiopic-condensed 
+{
+    font-family: var(--font-notosansethiopic-condensed);
+} 
+
+.notosansethiopic-condensedblack 
+{
+    font-family: var(--font-notosansethiopic-condensedblack);
+} 
+
+.notosansethiopic-condensedbold 
+{
+    font-family: var(--font-notosansethiopic-condensedbold);
+} 
+
+.notosansethiopic-condensedextrabold 
+{
+    font-family: var(--font-notosansethiopic-condensedextrabold);
+} 
+
+.notosansethiopic-condensedextralight 
+{
+    font-family: var(--font-notosansethiopic-condensedextralight);
+} 
+
+.notosansethiopic-condensedlight 
+{
+    font-family: var(--font-notosansethiopic-condensedlight);
+} 
+
+.notosansethiopic-condensedmedium 
+{
+    font-family: var(--font-notosansethiopic-condensedmedium);
+} 
+
+.notosansethiopic-condensedsemibold 
+{
+    font-family: var(--font-notosansethiopic-condensedsemibold);
+} 
+
+.notosansethiopic-condensedthin 
+{
+    font-family: var(--font-notosansethiopic-condensedthin);
+} 
+
+.notosansethiopic-extrabold 
+{
+    font-family: var(--font-notosansethiopic-extrabold);
+} 
+
+.notosansethiopic-extracondensed 
+{
+    font-family: var(--font-notosansethiopic-extracondensed);
+} 
+
+.notosansethiopic-extracondensedblack 
+{
+    font-family: var(--font-notosansethiopic-extracondensedblack);
+} 
+
+.notosansethiopic-extracondensedbold 
+{
+    font-family: var(--font-notosansethiopic-extracondensedbold);
+} 
+
+.notosansethiopic-extracondensedextrabold 
+{
+    font-family: var(--font-notosansethiopic-extracondensedextrabold);
+} 
+
+.notosansethiopic-extracondensedextralight 
+{
+    font-family: var(--font-notosansethiopic-extracondensedextralight);
+} 
+
+.notosansethiopic-extracondensedlight 
+{
+    font-family: var(--font-notosansethiopic-extracondensedlight);
+} 
+
+.notosansethiopic-extracondensedmedium 
+{
+    font-family: var(--font-notosansethiopic-extracondensedmedium);
+} 
+
+.notosansethiopic-extracondensedsemibold 
+{
+    font-family: var(--font-notosansethiopic-extracondensedsemibold);
+} 
+
+.notosansethiopic-extracondensedthin 
+{
+    font-family: var(--font-notosansethiopic-extracondensedthin);
+} 
+
+.notosansethiopic-extralight 
+{
+    font-family: var(--font-notosansethiopic-extralight);
+} 
+
+.notosansethiopic-light 
+{
+    font-family: var(--font-notosansethiopic-light);
+} 
+
+.notosansethiopic-medium 
+{
+    font-family: var(--font-notosansethiopic-medium);
+} 
+
+.notosansethiopic-regular 
+{
+    font-family: var(--font-notosansethiopic-regular);
+} 
+
+.notosansethiopic-semibold 
+{
+    font-family: var(--font-notosansethiopic-semibold);
+} 
+
+.notosansethiopic-semicondensed 
+{
+    font-family: var(--font-notosansethiopic-semicondensed);
+} 
+
+.notosansethiopic-semicondensedblack 
+{
+    font-family: var(--font-notosansethiopic-semicondensedblack);
+} 
+
+.notosansethiopic-semicondensedbold 
+{
+    font-family: var(--font-notosansethiopic-semicondensedbold);
+} 
+
+.notosansethiopic-semicondensedextrabold 
+{
+    font-family: var(--font-notosansethiopic-semicondensedextrabold);
+} 
+
+.notosansethiopic-semicondensedextralight 
+{
+    font-family: var(--font-notosansethiopic-semicondensedextralight);
+} 
+
+.notosansethiopic-semicondensedlight 
+{
+    font-family: var(--font-notosansethiopic-semicondensedlight);
+} 
+
+.notosansethiopic-semicondensedmedium 
+{
+    font-family: var(--font-notosansethiopic-semicondensedmedium);
+} 
+
+.notosansethiopic-semicondensedsemibold 
+{
+    font-family: var(--font-notosansethiopic-semicondensedsemibold);
+} 
+
+.notosansethiopic-semicondensedthin 
+{
+    font-family: var(--font-notosansethiopic-semicondensedthin);
+} 
+
+.notosansethiopic-thin 
+{
+    font-family: var(--font-notosansethiopic-thin);
+} 
+
+.notoserifethiopic-black 
+{
+    font-family: var(--font-notoserifethiopic-black);
+} 
+
+.notoserifethiopic-bold 
+{
+    font-family: var(--font-notoserifethiopic-bold);
+} 
+
+.notoserifethiopic-condensed 
+{
+    font-family: var(--font-notoserifethiopic-condensed);
+} 
+
+.notoserifethiopic-condensedblack 
+{
+    font-family: var(--font-notoserifethiopic-condensedblack);
+} 
+
+.notoserifethiopic-condensedbold 
+{
+    font-family: var(--font-notoserifethiopic-condensedbold);
+} 
+
+.notoserifethiopic-condensedextrabold 
+{
+    font-family: var(--font-notoserifethiopic-condensedextrabold);
+} 
+
+.notoserifethiopic-condensedextralight 
+{
+    font-family: var(--font-notoserifethiopic-condensedextralight);
+} 
+
+.notoserifethiopic-condensedlight 
+{
+    font-family: var(--font-notoserifethiopic-condensedlight);
+} 
+
+.notoserifethiopic-condensedmedium 
+{
+    font-family: var(--font-notoserifethiopic-condensedmedium);
+} 
+
+.notoserifethiopic-condensedsemibold 
+{
+    font-family: var(--font-notoserifethiopic-condensedsemibold);
+} 
+
+.notoserifethiopic-condensedthin 
+{
+    font-family: var(--font-notoserifethiopic-condensedthin);
+} 
+
+.notoserifethiopic-extrabold 
+{
+    font-family: var(--font-notoserifethiopic-extrabold);
+} 
+
+.notoserifethiopic-extracondensed 
+{
+    font-family: var(--font-notoserifethiopic-extracondensed);
+} 
+
+.notoserifethiopic-extracondensedblack 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedblack);
+} 
+
+.notoserifethiopic-extracondensedbold 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedbold);
+} 
+
+.notoserifethiopic-extracondensedextrabold 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedextrabold);
+} 
+
+.notoserifethiopic-extracondensedextralight 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedextralight);
+} 
+
+.notoserifethiopic-extracondensedlight 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedlight);
+} 
+
+.notoserifethiopic-extracondensedmedium 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedmedium);
+} 
+
+.notoserifethiopic-extracondensedsemibold 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedsemibold);
+} 
+
+.notoserifethiopic-extracondensedthin 
+{
+    font-family: var(--font-notoserifethiopic-extracondensedthin);
+} 
+
+.notoserifethiopic-extralight 
+{
+    font-family: var(--font-notoserifethiopic-extralight);
+} 
+
+.notoserifethiopic-light 
+{
+    font-family: var(--font-notoserifethiopic-light);
+} 
+
+.notoserifethiopic-medium 
+{
+    font-family: var(--font-notoserifethiopic-medium);
+} 
+
+.notoserifethiopic-regular 
+{
+    font-family: var(--font-notoserifethiopic-regular);
+} 
+
+.notoserifethiopic-semibold 
+{
+    font-family: var(--font-notoserifethiopic-semibold);
+} 
+
+.notoserifethiopic-semicondensed 
+{
+    font-family: var(--font-notoserifethiopic-semicondensed);
+} 
+
+.notoserifethiopic-semicondensedblack 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedblack);
+} 
+
+.notoserifethiopic-semicondensedbold 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedbold);
+} 
+
+.notoserifethiopic-semicondensedextrabold 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedextrabold);
+} 
+
+.notoserifethiopic-semicondensedextralight 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedextralight);
+} 
+
+.notoserifethiopic-semicondensedlight 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedlight);
+} 
+
+.notoserifethiopic-semicondensedmedium 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedmedium);
+} 
+
+.notoserifethiopic-semicondensedsemibold 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedsemibold);
+} 
+
+.notoserifethiopic-semicondensedthin 
+{
+    font-family: var(--font-notoserifethiopic-semicondensedthin);
+} 
+
+.notoserifethiopic-thin 
+{
+    font-family: var(--font-notoserifethiopic-thin);
+} 
+
+.sabaean 
+{
+    font-family: var(--font-sabaean);
+} 
+
+.seat 
+{
+    font-family: var(--font-seat);
+} 
+
+.shiromeda-bold 
+{
+    font-family: var(--font-shiromeda-bold);
+} 
+
+.shiromeda-regular 
+{
+    font-family: var(--font-shiromeda-regular);
+} 
+
+.shiromeda-semibold 
+{
+    font-family: var(--font-shiromeda-semibold);
+} 
+
+.shiromedaserif-bold 
+{
+    font-family: var(--font-shiromedaserif-bold);
+} 
+
+.shiromedaserif-regular 
+{
+    font-family: var(--font-shiromedaserif-regular);
+} 
+
+.shiromedaserif-semibold 
+{
+    font-family: var(--font-shiromedaserif-semibold);
+} 
+
+.tayitu 
+{
+    font-family: var(--font-tayitu);
+} 
+
+.tera-regular 
+{
+    font-family: var(--font-tera-regular);
+} 
+
+.tera 
+{
+    font-family: var(--font-tera);
+} 
+
+.tint 
+{
+    font-family: var(--font-tint);
+} 
+
+.washera-bold 
+{
+    font-family: var(--font-washera-bold);
+} 
+
+.washera-regular 
+{
+    font-family: var(--font-washera-regular);
+} 
+
+.wukiyanos 
+{
+    font-family: var(--font-wukiyanos);
+} 
+
+.yebs 
+{
+    font-family: var(--font-yebs);
+} 
+
+.yigezu-bisrat 
+{
+    font-family: var(--font-yigezu-bisrat);
+} 
+
+.zelan 
+{
+    font-family: var(--font-zelan);
+} 
+
